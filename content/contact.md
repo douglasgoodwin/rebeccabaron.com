@@ -10,8 +10,15 @@ menu:
     weight: 2
 
 ---
-Please contact \[Video Data Bank\]([https://www.vdb.org/artists/rebecca-baron](https://www.vdb.org/artists/rebecca-baron "Video Data Bank")) for exhibitions.
+Please contact \[Video Data Bank\](https://www.vdb.org/artists/rebecca-baron) for exhibitions.
 
 Contact Rebecca with this form:
 
 <script src="[https://kwes.io/v2/kwes-script.js](https://kwes.io/v2/kwes-script.js "contact rebecca")" defer></script>
+
+<form class="kwes-form" action="https://kwes.io/api/foreign/forms/guKH8mkDq5H6yhIwgHII">
+    <label for="name">Your Name</label>
+    <input type="text" name="name" rules="required|max:255">
+
+    <button type="submit">Submit</button>
+</form>
