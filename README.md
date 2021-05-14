@@ -19,13 +19,13 @@ Ready-to-use Forestry starter with Hugo Ananke Theme.
 
 This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import this starter in Forestry](https://app.forestry.io/quick-start?repo=forestryio/hugo-ananke-forestry&engine=hugo&version=0.81.0) to be able to edit and preview your site ✨.
 
-Any changes you make in Forestry will be commited back to the Git repository. Deploy your site on [Vercel](#vercel) or [Netlify](#netlify) within minutes.
+Any changes you make in Forestry will be committed back to the Git repository. Deploy your site on [Vercel](#vercel) or [Netlify](#netlify) within minutes.
 
 ## Deployment
 
 ### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio/hugo-ananke-forestry)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/douglasgoodwin/rebeccabaron.com)
 
 1. Set the build command to: `hugo --gc --minify`
 1. Make sure to set `HUGO_VERSION` to 0.65.0 or above (tested with latest version)
