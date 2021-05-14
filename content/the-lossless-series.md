@@ -1,7 +1,7 @@
 +++
 description = ""
 featured_image = "/images/lossless1.png"
-title = "The Lossless series"
+title = "The Lossless Series"
 [menu.main]
 name = "Lossless"
 weight = 4
