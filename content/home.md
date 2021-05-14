@@ -1,6 +1,5 @@
 +++
 description = "Rebecca Baron"
-draft = true
 featured_image = ""
 title = "home"
 
