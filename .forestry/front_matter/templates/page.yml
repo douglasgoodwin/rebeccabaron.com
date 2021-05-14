@@ -8,6 +8,7 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+  default: "/images/11_bulldozer4site_v2.png"
 - type: text
   name: description
   label: description
