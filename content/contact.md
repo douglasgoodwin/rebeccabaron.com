@@ -14,7 +14,7 @@ Please contact \[Video Data Bank\](https://www.vdb.org/artists/rebecca-baron) fo
 
 Contact Rebecca with this form:
 
-<script src="[https://kwes.io/v2/kwes-script.js](https://kwes.io/v2/kwes-script.js "contact rebecca")" defer></script>
+<script src="https://kwes.io/v2/kwes-script.js" defer></script>
 
 <form class="kwes-form" action="https://kwes.io/api/foreign/forms/guKH8mkDq5H6yhIwgHII">
     <label for="name">Your Name</label>
