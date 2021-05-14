@@ -1,9 +1,8 @@
 +++
 description = ""
 featured_image = "/images/tedserios1.jpeg"
-title = "Detour de Force (2015)"
+title = "Detour de Force"
 [menu.main]
-name = "Detour de Force"
 weight = 3
 
 +++
