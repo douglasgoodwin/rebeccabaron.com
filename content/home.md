@@ -1,8 +1,10 @@
 +++
-description = "The last theme you'll ever need. Maybe."
+description = "Rebecca Baron"
 draft = true
-featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+featured_image = ""
 title = "home"
 
 +++
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+## Rebecca Baron is a Los Angeles-based media artist known for her lyrical essay films which explore the construction of history, with a particular interest in still photography and its relationship to the moving image.
+
+##### Her work has screened widely at international film festivals and media venues including documenta 12, International Film Festival Rotterdam, New York Film Festival, Anthology Film Archive, Toronto Film Festival, London Film Festival, Pacific Film Archive, Flaherty Film Seminar, Viennale and the Whitney Museum of American Art. Her films have received awards at the San Francisco, Black Maria, Montreal, Leipzig, Athens, Onion City, KIN, Sinking Creek and Ann Arbor Film Festivals. She is the recipient of a 2002 Guggenheim Fellowship and a 2007 Fellowship at the Radcliffe Institute for Advanced Study. She has taught documentary and experimental film at Massachusetts College of Art, Harvard University, and since 2000 at California Institute of the Arts.
