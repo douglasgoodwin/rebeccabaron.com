@@ -2,10 +2,7 @@
 title: About
 description: Rebecca Baron
 featured_image:
-title: "home"
-[menu.main]
-name: Home
-weight = 1
+title: Home
 
 ---
 ## Rebecca Baron is a Los Angeles-based media artist known for her lyrical essay films which explore the construction of history, with a particular interest in still photography and its relationship to the moving image.
