@@ -10,7 +10,6 @@ menu:
     weight: 2
 
 ---
-Please contact \[Video Data Bank\](https://www.vdb.org/artists/rebecca-baron) for exhibitions.
 
 Contact Rebecca with this form:
 
@@ -22,3 +21,5 @@ Contact Rebecca with this form:
 
     <button type="submit">Submit</button>
 </form>
+
+Please contact <a href="https://www.vdb.org/artists/rebecca-baron">Video Data Bank</a> for exhibitions.
