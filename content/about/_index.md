@@ -1,11 +1,13 @@
 ---
 title: About
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
-featured_image: ''
+description = "Rebecca Baron"
+featured_image = ""
+title = "home"
+[menu.main]
+name = "Home"
+weight = 1
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+## Rebecca Baron is a Los Angeles-based media artist known for her lyrical essay films which explore the construction of history, with a particular interest in still photography and its relationship to the moving image.
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+##### Her work has screened widely at international film festivals and media venues including documenta 12, International Film Festival Rotterdam, New York Film Festival, Anthology Film Archive, Toronto Film Festival, London Film Festival, Pacific Film Archive, Flaherty Film Seminar, Viennale and the Whitney Museum of American Art. Her films have received awards at the San Francisco, Black Maria, Montreal, Leipzig, Athens, Onion City, KIN, Sinking Creek and Ann Arbor Film Festivals. She is the recipient of a 2002 Guggenheim Fellowship and a 2007 Fellowship at the Radcliffe Institute for Advanced Study. She has taught documentary and experimental film at Massachusetts College of Art, Harvard University, and since 2000 at California Institute of the Arts.

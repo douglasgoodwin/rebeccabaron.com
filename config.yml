@@ -1,7 +1,7 @@
 ---
-baseURL: http://example.org/
+baseURL: https://rebeccabaron.com/
 languageCode: en-us
-title: Hugo Ananke Forestry Starter
+title: Rebecca Baron
 module:
   imports:
   - path: github.com/theNewDynamic/gohugo-theme-ananke
@@ -30,5 +30,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+  # featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2
