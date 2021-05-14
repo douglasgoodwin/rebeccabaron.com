@@ -1,0 +1,48 @@
+baseurl                  = "https://rebeccabaron.com"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "rebecca baron"
+theme                    = "sam"
+pygmentsStyle            = "murphy"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "02 Jan 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "all content belongs to rebecca baron dot com."
+
+# Metadata for Open Graph and Twitter
+    description          = "rebecca baron dot com."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Rebecca Baron"
+    # rss                = ""
+
+
+
+[[params.mainMenu]]
+    link = "about"
+    text = "rebecca baron"
+
+[[params.mainMenu]]
+    link = "films"
+    text = "films"
+
+[[params.mainMenu]]
+    link = "contact"
+    text = "contact"
+
+[[params.videoBackground.sources]]
+    source  = "/video/tedSerios.mp4"
+    type    = "video/mp4"
+    poster  = "/video/tedSerios.jpg"
+
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+
+[imaging]
+    quality = 75
