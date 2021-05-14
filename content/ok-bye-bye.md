@@ -2,6 +2,8 @@
 description = ""
 featured_image = "/images/11_boxer4site.png"
 title = "ok bye-bye"
+[menu.main]
+weight = 7
 
 +++
 # In _okay bye-bye_, so named for what Cambodian children shouted to the U.S. ambassador in 1975 as he took the last helicopter out of Phnom Phenh in advance of the Khmer Rouge, Rebecca Baron explores the relationship of history to memory. She questions whether, "image and memory can occupy the same space." Building on excerpts from letters, found super-8 footage of an unidentified Cambodian man, iconographic photographs from the Vietnam War and other partial images, Baron combines epistolary narrative, memoir, journalism, and official histories to question whether something as monumental as the genocidal slaughter of Cambodians during the Pol Pot regime can be examined effectively with traditional methodologies.
