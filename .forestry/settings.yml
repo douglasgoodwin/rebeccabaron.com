@@ -17,11 +17,6 @@ sections:
   exclude: _index.md
   templates:
   - post
-- type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
