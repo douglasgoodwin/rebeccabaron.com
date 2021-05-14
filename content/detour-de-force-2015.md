@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 featured_image = "/images/tedserios1.jpeg"
 title = "Detour de Force (2015)"
 
