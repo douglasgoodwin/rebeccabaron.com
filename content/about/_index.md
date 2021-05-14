@@ -1,10 +1,10 @@
 ---
 title: About
-description = "Rebecca Baron"
-featured_image: ""
-title = "home"
+description: Rebecca Baron
+featured_image:
+title: "home"
 [menu.main]
-name = "Home"
+name: Home
 weight = 1
 
 ---
