@@ -13,7 +13,6 @@ fields:
   name: description
   label: description
 pages:
-- content/_index.md
 - content/detour-de-force-2015.md
 - content/home.md
 - content/how-little-we-know-of-our-neighbours.md
