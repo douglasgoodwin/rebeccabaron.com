@@ -1,7 +1,7 @@
 ---
 title: About
 description = "Rebecca Baron"
-featured_image = ""
+featured_image: ""
 title = "home"
 [menu.main]
 name = "Home"
