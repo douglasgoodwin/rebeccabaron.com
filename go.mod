@@ -1,5 +1,5 @@
-module github.com/forestryio/hugo-ananke-forestry
+module themes/hugo-theme-sam
 
-go 1.15
+go 1.13
 
-require github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible // indirect
+require github.com/victoriadrake/hugo-theme-sam v4.0.2+incompatible // indirect

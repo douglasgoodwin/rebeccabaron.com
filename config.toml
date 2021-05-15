@@ -3,7 +3,7 @@ languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "rebecca baron"
-theme                    = "sam"
+theme                    = ["hugo-theme-sam"]
 pygmentsStyle            = "murphy"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
@@ -20,9 +20,6 @@ pygmentsCodefences       = true
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Rebecca Baron"
     # rss                = ""
-
-
-
 [[params.mainMenu]]
     link = "about"
     text = "rebecca baron"
@@ -46,3 +43,8 @@ pygmentsCodefences       = true
 
 [imaging]
     quality = 75
+
+[module]
+  [[module.imports]]
+    path = "github.com/victoriadrake/hugo-theme-sam"
+    disable=false
