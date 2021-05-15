@@ -1,0 +1,19 @@
+{
+  "name": "rebeccabaron.com",
+  "version": "1.0.0",
+  "description": "website for rebecca baron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasgoodwin/rebeccabaron.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasgoodwin/rebeccabaron.com/issues"
+  },
+  "homepage": "https://github.com/douglasgoodwin/rebeccabaron.com#readme"
+}
