@@ -20,5 +20,3 @@ fields:
   label: type
   default: page
   hidden: true
-pages:
-- content/contact.md
