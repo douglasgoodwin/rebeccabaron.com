@@ -5,6 +5,21 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/films
+  label: films
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact
+  label: contact
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/about
+  label: about
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
