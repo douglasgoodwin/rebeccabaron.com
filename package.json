@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/douglasgoodwin/rebeccabaron.com/issues"
   },
-  "homepage": "https://github.com/douglasgoodwin/rebeccabaron.com#readme"
+  "homepage": "https://github.com/douglasgoodwin/rebeccabaron.com#readme",
+  "dependencies": {
+    "kwesforms": "^2.1.2"
+  }
 }

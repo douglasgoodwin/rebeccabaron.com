@@ -1,7 +1,13 @@
 # Generated files by hugo
+/node_modules/
 /public/
 /resources/_gen/
 hugo_stats.json
+package-lock.json
+
 
 # macOS
 .DS_Store
+
+# Local Netlify folder
+.netlify
