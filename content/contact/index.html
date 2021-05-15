@@ -9,14 +9,20 @@ title: contact
 
 <h2>contact rebecca baron with this form</h2>
 
-<form class="kwes-form" action="https://kwes.io/api/foreign/forms/v7HUW7tFAeaJkM2hhgql">
-  <label for="name">Your Name</label>
-  <input type="text" name="name" rules="required|max:255">
-  <br />
-  <label for="message">A message</label>
-  <textarea id="msg" name="message" rules="required|max:512"></textarea>
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
 
-    <button type="submit">Submit</button>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
 
 <script src="https://kwes.io/v2/kwes-script.js" defer></script>
