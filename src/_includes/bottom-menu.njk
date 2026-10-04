@@ -1,0 +1,7 @@
+<nav role="navigation" class="flex-container bottom-menu">
+  <p>
+    {%- for item in site.bottomMenu -%}
+      <a href="{{ item.link }}">{{ item.text }}</a>{% if not loop.last %} &middot; {% endif %}
+    {%- endfor -%}
+  </p>
+</nav>

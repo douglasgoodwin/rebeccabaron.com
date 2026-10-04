@@ -1,0 +1,12 @@
+{
+  "title": "rebecca baron",
+  "description": "rebecca baron dot com.",
+  "footer": "all content belongs to rebecca baron dot com.",
+  "contactEmail": "3c0e1f9bb3faff8e8029ca7914b0c1e0",
+  "bottomMenu": [
+    { "text": "rebecca baron", "link": "/about/" },
+    { "text": "films", "link": "/films/" },
+    { "text": "contact", "link": "/contact/" },
+    { "text": "home", "link": "/" }
+  ]
+}

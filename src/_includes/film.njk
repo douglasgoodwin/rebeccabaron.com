@@ -1,0 +1,22 @@
+---
+layout: base.njk
+---
+<header class="wrap flex-container">
+  <h1>{{ title }}</h1>
+</header>
+<main class="wrap">
+  <article role="article" class="flex-container">
+    <div class="synopsis">{{ content | safe }}</div>
+    {% if images and images.length %}
+    <div class="grid" id="gallery">
+      {% for img in images %}
+      <div>
+        <img src="/assets/films/{{ slug }}/{{ img }}" alt="{{ title }}" loading="lazy" data-index="{{ loop.index0 }}">
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </article>
+</main>
+{% include "bottom-menu.njk" %}
+{% if images and images.length %}<script src="/js/lightbox.js" defer></script>{% endif %}

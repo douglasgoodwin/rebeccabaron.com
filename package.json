@@ -1,0 +1,13 @@
+{
+  "name": "rebeccabaron.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "rebecca baron dot com — static site (Eleventy)",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

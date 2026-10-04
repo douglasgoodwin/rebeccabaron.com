@@ -1,0 +1,11 @@
+---
+layout: page.njk
+title: films
+heading: films
+permalink: /films/
+---
+<ul class="film-list">
+  {% for film in collections.films %}
+  <li><a href="{{ film.url }}">{{ film.data.title }}</a></li>
+  {% endfor %}
+</ul>

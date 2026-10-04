@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>{% if title %}{{ title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="shortcut icon" href="/assets/sam.ico">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap">
+  <link rel="stylesheet" href="/css/main.css">
+  <meta property="og:title" content="{{ title or site.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://rebeccabaron.com/">
+  <meta property="og:image" content="/assets/tn.png">
+  <meta property="og:site_name" content="Rebecca Baron">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="/assets/tn.png">
+</head>
+<body>
+{% if video %}
+  <video class="video" autoplay muted preload="auto" loop playsinline poster="/assets/video/nn_swiper.jpg">
+    <source src="/assets/video/nn_swiper.webm" type="video/webm">
+  </video>
+  <div id="overlay"></div>
+{% endif %}
+{{ content | safe }}
+{% if not home %}
+  <footer class="flex-container footer">{{ site.footer }}</footer>
+{% endif %}
+</body>
+</html>
